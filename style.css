@@ -1,0 +1,66 @@
+body{
+    background-color: rgba(236, 219, 219, 0.966);
+    
+        
+
+    
+    
+    
+}
+.container{
+    width: 700px;
+    border-radius: 20px;
+    margin-left: 20%;
+    background-color: white;
+    padding: 50px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+}
+img{
+   width: 700px; 
+   border-radius: 10px;
+}
+
+.preparation{
+    background-color: rgb(255, 248, 252);
+    border-radius: 10px;
+    padding: 5px;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: rgb(170, 27, 106);
+}
+p{
+    font-weight: 100;
+}
+.calories{
+    word-spacing: 250px;
+}
+.carbs{
+    word-spacing:270px ;
+}
+.protein{
+   word-spacing:260px ;
+}
+.fat{
+    word-spacing:290px ;
+}
+ b{
+    color: rgb(105, 78, 10);
+
+ }
+ .list{
+    margin-left: 30px;
+ }
+
+
+ ol p li{
+    color: #000;
+ }
+
+ .list b{
+    color: brown;
+ }
